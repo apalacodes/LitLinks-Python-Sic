@@ -1,0 +1,9 @@
+[server]
+maxMessageSize = 800
+[theme]
+base="dark"
+primaryColor="#844bff"
+
+
+
+
